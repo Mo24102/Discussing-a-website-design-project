@@ -1,0 +1,44 @@
+﻿@model List<MyProject.Models.User>
+
+<h1 class="text-center">Manage Users</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>
+                    @if (user.Role == MyProject.Models.UserRole.Admin)
+                    {
+                        <form method="post" action="@Url.Action("ChangeUserRole", "User", new { userId = user.Id })">
+                            <button type="submit" class="btn btn-warning">Demote to User</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form method="post" action="@Url.Action("ChangeUserRole", "User", new { userId = user.Id })">
+                            <button type="submit" class="btn btn-success">Promote to Admin</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+<div class="text-start mt-4">
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary btn-lg">Back</a>
+</div>

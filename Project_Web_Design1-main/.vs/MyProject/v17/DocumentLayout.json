@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\js\\javascriptlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\js\\javascriptlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\js\\javascriptsignup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\js\\javascriptsignup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\js\\form-validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\js\\form-validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\css\\stylesignup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\css\\stylesignup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\css\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\css\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\wwwroot\\css\\stylehome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:wwwroot\\css\\stylehome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\models\\addtudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:models\\addtudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\student\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\student\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\user\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\user\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|c:\\users\\m\\downloads\\project_web_design1-main\\project_web_design1-main\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8821CF-0BF5-4FE3-AE9E-98114F6ED408}|MyProject.csproj|solutionrelative:views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-28T22:11:45.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JavaScriptLogin.js",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\JavaScriptLogin.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\JavaScriptLogin.js",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\JavaScriptLogin.js",
+              "RelativeToolTip": "wwwroot\\js\\JavaScriptLogin.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-28T22:10:12.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JavaScriptSignup.js",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\JavaScriptSignup.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\JavaScriptSignup.js",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\JavaScriptSignup.js",
+              "RelativeToolTip": "wwwroot\\js\\JavaScriptSignup.js",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-28T22:10:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "form-validation.js",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\form-validation.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\form-validation.js",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\js\\form-validation.js",
+              "RelativeToolTip": "wwwroot\\js\\form-validation.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-28T22:09:03.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T22:08:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSignup.css",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\StyleSignup.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\StyleSignup.css",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\StyleSignup.css",
+              "RelativeToolTip": "wwwroot\\css\\StyleSignup.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T22:07:15.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleLogin.css",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\StyleLogin.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\StyleLogin.css",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\StyleLogin.css",
+              "RelativeToolTip": "wwwroot\\css\\StyleLogin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T22:05:08.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StyleHome.css",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\StyleHome.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\StyleHome.css",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\wwwroot\\css\\StyleHome.css",
+              "RelativeToolTip": "wwwroot\\css\\StyleHome.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T22:03:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:03:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:01:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddtudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Models\\AddtudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddtudentModel.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Models\\AddtudentModel.cs",
+              "RelativeToolTip": "Models\\AddtudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:01:09.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:01:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T21:29:19.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T21:25:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:51:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABwAAAAAJjMzMzPzvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:37:18.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:28:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\User\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ManageUsers.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\User\\ManageUsers.cshtml",
+              "RelativeToolTip": "Views\\User\\ManageUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:27:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Student\\Show.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Show.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Student\\Show.cshtml",
+              "RelativeToolTip": "Views\\Student\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:15:21.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:14:01.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\User\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\User\\Signup.cshtml",
+              "RelativeToolTip": "Views\\User\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:13:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:11:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\m\\Downloads\\Project_Web_Design1-main\\Project_Web_Design1-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:54:33.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 606,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
